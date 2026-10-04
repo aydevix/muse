@@ -66,7 +66,18 @@ Muse is a minimalist text animation program built with **Golang** and **GTK4**. 
 <p align="center">
   <img src="/logo/screenshot_20261004_122755-region.png"/>
 </p>
+
 ---
+
+## 🤖 Built with AI agents
+
+This project was typed by **AI agents**:
+
+- **GPT-5.6 Luna** — project skeleton and initial structure
+- **Space Bunny** — everything else
+
+> [!NOTE]
+> AI-generated, human-directed. Expect alpha-quality code.
 
 ## 📄 License
 
