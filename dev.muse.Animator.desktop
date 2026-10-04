@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Muse
+GenericName=Text Animation
+Comment=Animate text and render transparent WebM video
+Exec=muse %f
+Icon=muse
+Terminal=false
+StartupNotify=true
+Categories=AudioVideo;Video;GTK;
+Keywords=animation;text;video;webm;kdenlive;subtitle;
