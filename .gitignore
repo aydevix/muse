@@ -1,0 +1,9 @@
+# Build output
+/muse
+/muse.exe
+
+# Rendered videos
+*.webm
+
+# Preview frame cache, normally under ~/.cache/muse
+preview-*/
