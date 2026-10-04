@@ -62,6 +62,11 @@ Muse is a minimalist text animation program built with **Golang** and **GTK4**. 
    ```
 
 ---
+## Screenshot
+<p align="center">
+  <img src="/logo/screenshot_20261004_122755-region.png"/>
+</p>
+---
 
 ## 📄 License
 
